@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9fb3124-9f26-4d30-aaa1-87f5e56b5430" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHGDX6udM07TMm1UXzIQDDPyaL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main_maze">
+    <configuration name="main_maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Single_agent_goal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_maze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Single_agent_goal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try_function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_maze" />
+        <item itemvalue="Python.try_function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fb3124-9f26-4d30-aaa1-87f5e56b5430" name="Default Changelist" comment="" />
+      <created>1580695486542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580695486542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="401" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1580717771583">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="682" y="401" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1580717771583" />
+    <state width="1424" height="582" key="DebuggerActiveHint" timestamp="1580714391320">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1424" height="582" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1580714391320" />
+    <state width="1892" height="316" key="GridCell.Tab.0.bottom" timestamp="1580740793464">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1580740793464" />
+    <state width="1892" height="316" key="GridCell.Tab.0.center" timestamp="1580740793463">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="316" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1580740793463" />
+    <state width="1892" height="316" key="GridCell.Tab.0.left" timestamp="1580740793463">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="316" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1580740793463" />
+    <state width="1892" height="316" key="GridCell.Tab.0.right" timestamp="1580740793463">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="316" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1580740793463" />
+    <state width="1892" height="233" key="GridCell.Tab.1.bottom" timestamp="1580723453317">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="233" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1580723453317" />
+    <state width="1892" height="233" key="GridCell.Tab.1.center" timestamp="1580723453317">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="233" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1580723453317" />
+    <state width="1892" height="233" key="GridCell.Tab.1.left" timestamp="1580723453317">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="233" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1580723453317" />
+    <state width="1892" height="233" key="GridCell.Tab.1.right" timestamp="1580723453317">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="233" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1580723453317" />
+    <state x="336" y="56" key="SettingsEditor" timestamp="1580695775976">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="336" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1580695775976" />
+  </component>
+</project>
